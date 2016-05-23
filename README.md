@@ -1,5 +1,5 @@
 # Terbilang
-[![Gem Version](https://badge.fury.io/rb/terbilang.svg)](https://badge.fury.io/rb/terbilang) {<img src="https://travis-ci.org/kovloq/terbilang.svg"/>}[http://travis-ci.org/kovloq/terbilang]
+[![Gem Version](https://badge.fury.io/rb/terbilang.svg)](https://badge.fury.io/rb/terbilang) [![Gem Version](https://travis-ci.org/kovloq/terbilang.svg)](http://travis-ci.org/kovloq/terbilang) 
 convert numbers into Indonesian string called terbilang
 
 ## Installation 
