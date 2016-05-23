@@ -35,4 +35,4 @@ If you use Rails don't forget to restart your server
 [Github](https://github.com/kovloq/terbilang)
 
 ## License
-[MIT License](http;//dana.mit-license.org/)
+[MIT License](http://dana.mit-license.org/)
