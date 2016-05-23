@@ -1,4 +1,27 @@
 # Terbilang
+[![Gem Version](https://badge.fury.io/rb/indonesian_currency_format.png)](http://badge.fury.io/rb/indonesian_currency_format)
+convert numbers into Indonesian string called terbilang
+
+## Installation 
+
+Add this to your gemfile
+
+` gem "terbilang" `
+
+then execute
+
+` bundle install `
+
+Or
+
+`gem install terbilang`
+
+## Usage
+` Terbilang.convert(150050000) # seratus lima puluh juta lima puluh ribu `
+
+If you use Rails don't forget to restart your server
+
+
 ## Contributing
 
 1. Fork it
@@ -9,5 +32,6 @@
 
 ## Github
 [Github](https://github.com/kovloq/terbilang)
+
 ## License
 [MIT License](http;//dana.mit-license.org/)
