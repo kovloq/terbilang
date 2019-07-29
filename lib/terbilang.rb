@@ -25,6 +25,8 @@ class Terbilang
 		temp="#{convert(str/1000000)} juta #{convert(str%1000000)}"
 	when 1000000000..999999999999
 		temp="#{convert(str/1000000000)} milyar #{convert(str%1000000000)}"
+	when 1000000000000..999999999999999
+	    	temp="#{convert(str/1000000000000)} triliun #{convert(str%1000000000000)}"
 	else
 		temp="";
 	end
